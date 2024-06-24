@@ -81,8 +81,8 @@ async function onLoadBtnClick() {
 function showMessage(message) {
     iziToast.show({
         message,
-        messageColor: 'white',
-        backgroundColor: '#EF4040',
+        messageColor: '#050505',
+        backgroundColor: '#18DDFF',
         iconUrl: imageUrl,
         maxWidth: '360px',
         position: 'topRight',
